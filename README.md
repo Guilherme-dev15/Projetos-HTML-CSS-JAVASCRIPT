@@ -17,12 +17,11 @@ Este repositório contém alguns projetos que desenvolvi em HTML, CSS e JavaScri
 
 **🔗 Link para o projeto:** [www.encr.pw/guilherme-dev15-2]
 
-## 📁 Projeto 3 - [Nome do projeto]
+## 📁 Projeto 3 - [Formulário - Cadastro de Música]
 
-[Descrição breve do projeto]
+[-- Este projeto é um formulário para cadastrar informações de músicas, onde o usuário deve preencher informações básicas do álbum, dados de acesso e agendar pré-lançamento. O formulário conta com validações de campos, como tamanho mínimo de caracteres, formato de e-mail válido e somente números para campo de telefone, e também um script para ocultar um campo quando uma caixa de seleção é marcada. Ao clicar no botão "Salvar Música", os dados são submetidos ao formulário. --]
 
 **🚀 Tecnologias utilizadas:** HTML, CSS, JavaScript
 
 **🔗 Link para o projeto:** [Inserir link para o projeto no Github Pages ou outra plataforma de hospedagem]
 
-## 📁 Projeto 4 - [Nome do projeto]
