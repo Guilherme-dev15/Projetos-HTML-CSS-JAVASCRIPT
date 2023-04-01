@@ -7,7 +7,7 @@ Este repositório contém alguns projetos que desenvolvi em HTML, CSS e JavaScri
 
 **🚀 Tecnologias utilizadas:** HTML, CSS
 
-**🔗 Link para o projeto:** [https//:www.encr.pw/guilherme-dev15]
+**🔗 Link para o projeto:** [www.encr.pw/guilherme-dev15]
 
 ## 📁 Projeto 2 - [Nome do projeto]
 
