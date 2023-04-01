@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crie o seu Evento</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700&family=Poppins&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="page">
+        <header>
+            <h1>Cadastre sua musica</h1>
+            <p>Para começar o processo, é necessário preencher o formulário.</p>
+        </header>
+        
+        <form action="" id="my-form">
+            <fieldset>
+                <div class="fildset-wrapper">
+                    <legend>Informações Básicas do Álbum</legend>
+
+                    <div class="input-wrapper">
+
+                        <label for="music-title">Título de um álbum, single ou EP <span>(mínimo 8 caracteres)</span></label>
+                        <input type="text" id="music-title" required minlength="8">
+                    </div>
+                    <div class="input-wrapper">
+                        <label for="music-link">link do youtube <span>(comece com https://)</span></label>
+                        <input type="url" id="music-link" required>
+                    </div>
+                    <div class="input-wrapper">
+                        <label for="music-whatsapp">Whatsapp para contato <span>(somente números)</span></label>
+                        <input type="tel" id="music-whatsapp" required>
+                    </div>
+                    <div class="input-wrapper">    
+                        <label for="music-info">Se houver mais informações, insira abaixo.</label>
+                        <textarea id="music-info"></textarea>
+                    </div>
+                    <div class="input-wrapper">
+                        <label for="music-genre">Gênero</label>
+                        <select id="music-genre">
+                            
+                            <option value="blues">Blues</option>
+                            <option value="eletronic">Eletrônica</option>
+                            <option value="hiphop-rap">Hip Hop/Rap</option>
+                            <option value="mpb">MPB</option>
+                            <option value="countryside">Sertanejo</option>
+                        </select>
+                    </div>
+
+
+                </div>
+            </fieldset>
+            <fieldset>
+                <div class="fildset-wrapper">
+                    <legend>Dados de Acesso</legend>
+                    <div class="input-wrapper">
+
+                        <label for="music-email">E-mail do responsável <span>(digite um e-mail válido)</span></label>
+                        <input type="email" id="music-email" required>
+                    </div>
+                    <div class="input-wrapper">
+
+                        <label for="music-password">Senha de acesso<span>(mínimo 8 caracteres)</span></label>
+                        <input type="password" id="music-password" required minlength="8" required>
+                    </div>
+
+                    <div class="checkbox-wrapper">
+                        
+                        <input type="checkbox" name="music-code-check" id="music-code-check">
+                        <label for="music-code-check">Código UPC</label>
+                        
+                    </div>
+                    <!--script pra ocultar campo-->
+                    <script>
+                        $('[name="music-code-check"]').change(function() {
+                        $('[name="music-code-input"]').toggle(200);
+                        });
+
+
+                        $("#submit-music").click(function() {
+                        swal("Mensagem!");
+                        });
+
+                    </script>
+                    <!--Fim script pra ocultar-->
+                    <div class="input-wrapper">
+                        
+                        <input type="text" id="music-code-input" name="music-code-input" maxlength="12" minlength="12" hidden>
+                        
+                    </div>
+                </div>
+            </fieldset>
+            <fieldset>
+                <div class="fildset-wrapper">
+                    <legend>Agendar pré lançamento</legend>
+                    <div class="col-3">
+
+                        <div class="input-wrapper">
+                            <label for="musicmusic-date">Data</label>
+                            <input type="date" dateid="music-date" required>
+                        </div>
+
+                        <div class="input-wrapper">
+                            <label for="music-begin">Das</span></label>
+                            <input type="time" id="music-begin" required>
+                        </div>
+
+                        <div class="input-wrapper">
+    
+                            <label for="music-end">Até</span></label>
+                            <input type="time" id="music-end" required>
+                        </div>
+
+                    </div>
+                </div>
+            </fieldset>
+        </form> 
+        <footer >
+            <input class="button" type="submit" value="Salvar Musica" form="my-form" id="submit-music">
+        </footer>
+    </div>
+</body>
+</html>
