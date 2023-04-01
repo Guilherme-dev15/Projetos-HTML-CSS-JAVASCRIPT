@@ -3,7 +3,7 @@ Este repositório contém alguns projetos que desenvolvi em HTML, CSS e JavaScri
 
 ## 📁 Projeto 1 - [Cyber Safe]
 
-[Desenvolvi um projeto simples utilizando apenas HTML e CSS durante um curso. O projeto consistia em uma página única (one page). A página utilizava o posicionamento e alinhamento dos elementos, além de uma combinação de fontes (Inter e Open Sans) para criar uma estética moderna e atraente. O código HTML era composto por uma estrutura simples, contendo uma imagem, um título e um texto descritivo. O CSS, por sua vez, controlava o estilo visual da página, incluindo fontes, cores, espaçamentos e posicionamento dos elementos. No geral, o projeto serviu como uma base inicial para o meu aprendizado em HTML e CSS, permitindo-me praticar os conceitos básicos dessas linguagens.]
+[--Desenvolvi um projeto simples utilizando apenas HTML e CSS durante um curso. O projeto consistia em uma página única (one page). A página utilizava o posicionamento e alinhamento dos elementos, além de uma combinação de fontes (Inter e Open Sans) para criar uma estética moderna e atraente. O código HTML era composto por uma estrutura simples, contendo uma imagem, um título e um texto descritivo. O CSS, por sua vez, controlava o estilo visual da página, incluindo fontes, cores, espaçamentos e posicionamento dos elementos. No geral, o projeto serviu como uma base inicial para o meu aprendizado em HTML e CSS, permitindo-me praticar os conceitos básicos dessas linguagens.--]
 
 **🚀 Tecnologias utilizadas:** HTML, CSS
 
