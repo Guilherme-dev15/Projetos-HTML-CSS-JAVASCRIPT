@@ -7,7 +7,7 @@ Este repositório contém alguns projetos que desenvolvi em HTML, CSS e JavaScri
 
 **🚀 Tecnologias utilizadas:** HTML, CSS
 
-**🔗 Link para o projeto:** [www.encr.pw/guilherme-dev15]
+**🔗 Link para o projeto:** [<a href="www.encr.pw/guilherme-dev15">Cyber Safe</a>]
 
 ## 📁 Projeto 2 - [Saúde Total]
 
@@ -15,7 +15,7 @@ Este repositório contém alguns projetos que desenvolvi em HTML, CSS e JavaScri
 
 **🚀 Tecnologias utilizadas:** HTML, CSS
 
-**🔗 Link para o projeto:** [www.encr.pw/guilherme-dev15-2]
+**🔗 Link para o projeto:** [<a href="www.encr.pw/guilherme-dev15-2">Saúde Total</a>]
 
 ## 📁 Projeto 3 - [Formulário - Cadastro de Música]
 
