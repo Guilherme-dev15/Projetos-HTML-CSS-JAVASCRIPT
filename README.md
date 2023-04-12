@@ -33,14 +33,14 @@ Formulário - Cadastro de Música</a>]
 
 **🚀 Tecnologias utilizadas:** HTML, CSS
 
-**🔗 Link para o projeto:** [<a href=""  >
+**🔗 Link para o projeto:** [<a href="https://guilherme-dev15.github.io/Projetos-HTML-CSS-JAVASCRIPT/Projeto%2004%20-%20Reponsividade/"  >
 Responsividade</a>]
 
-## 📁 Projeto 5 - [Grid - Responsividade]
+## 📁 Projeto 5 - [Grid e Variaveis]
 
 [-- Segundo projeto de responsividade, agora foi apresentado novos conceitos no **CSS**. Durante o processo, fomos apresentados a novos conceitos no CSS, dentre os quais a utilização de variáveis para definir padrões de cores e tamanhos, deixando a página mais dinâmica. Também tivemos contato com conceitos de display, incluindo o uso do Grid, que possibilitou a criação de layout mais complexo e totalmente responsivos para diferentes tamanhos de tela., confesso que foi o mais dificil de entender e executar hehe!. Para dar um toque mais moderno e atraente ao projeto, adicionamos algumas animações e transições, que conferiram uma maior interatividade e fluidez à experiência do usuário. --]
 
 **🚀 Tecnologias utilizadas:** HTML, CSS
 
-**🔗 Link para o projeto:** [<a href=""  >
-Grid - Responsividade</a>]
+**🔗 Link para o projeto:** [<a href="https://guilherme-dev15.github.io/Projetos-HTML-CSS-JAVASCRIPT/Projeto%2005%20-%20Grid%20e%20Variaveis/"  >
+Grid e Variaveis</a>]
