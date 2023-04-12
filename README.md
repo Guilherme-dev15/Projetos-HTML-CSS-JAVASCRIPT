@@ -20,7 +20,7 @@ Este repositório contém alguns projetos que desenvolvi em HTML, CSS e JavaScri
 
 ## 📁 Projeto 3 - [Formulário - Cadastro de Música]
 
-[-- Este projeto é um formulário para cadastrar informações de músicas, onde o usuário deve preencher informações básicas do álbum, dados de acesso e agendar pré-lançamento. O formulário conta com validações de campos, como tamanho mínimo de caracteres, formato de e-mail válido e somente números para campo de telefone, e também um script para ocultar um campo quando uma caixa de seleção é marcada. Ao clicar no botão "Salvar Música", os dados são submetidos ao formulário. Acrescentei um pequeno trecho em javascript para ocultar e desocultar uma input caso tenho um determinado codigo a ser cadastrado --]
+[-- Este projeto é um formulário para cadastrar informações de músicas, onde o usuário deve preencher informações básicas do álbum, dados de acesso e agendar pré-lançamento. O formulário conta com validações de campos, como tamanho mínimo de caracteres, formato de e-mail válido e somente números para campo de telefone, e também um script para ocultar um campo quando uma caixa de seleção é marcada. --]
 
 **🚀 Tecnologias utilizadas:** HTML, CSS, JavaScript
 
