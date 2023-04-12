@@ -11,7 +11,7 @@ Este repositório contém alguns projetos que desenvolvi em HTML, CSS e JavaScri
 
 ## 📁 Projeto 2 - [Saúde Total]
 
-[-- Este é o segundo projeto desenvolvido no curso uma landing page simple e moderna. O desafio do projeto era organizar os elementos dentro da page e aplicar os posicionamentos. Através de tudo isso, eu pude entender melhor como usar o HTML e CSS para criar uma interface de usuário atraente e funcional. Para deixar mais aprimorada, adicionei animations, transformations e personalizei  as imagens e paleta de cores uadas originalmente para da um toque mais pessoal e atraente --]
+[-- Este é o segundo projeto desenvolvido no curso uma landing page simple e moderna. O desafio do projeto era organizar os elementos dentro da page e aplicar os posicionamentos. Através de tudo isso, eu pude entender melhor como usar o HTML e CSS para criar uma interface de usuário atraente e funcional. Para deixar mais aprimorada, adicionei animações, transformações e personalizei  as imagens e paleta de cores uadas originalmente para da um toque mais pessoal e atraente --]
 
 **🚀 Tecnologias utilizadas:** HTML, CSS
 
