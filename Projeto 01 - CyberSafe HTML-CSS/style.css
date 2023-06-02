@@ -43,3 +43,12 @@ footer a + a {
     border: 1px solid #eceff2;
     margin: 0 auto 8px ;
 }
+/*media queries*/
+@media (min-width: 700px){
+    .hero{
+        display: flex;
+        gap: 10rem;
+        max-width: 1020px;
+    }
+
+}
